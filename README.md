@@ -1,4 +1,4 @@
-###Amharic Language Translation for phpBB
+### Amharic Language Translation for phpBB
 -----
 
 ##### Intro
